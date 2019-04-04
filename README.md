@@ -1,0 +1,2 @@
+# sample
+初めてのgit
